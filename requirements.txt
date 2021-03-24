@@ -1,0 +1,6 @@
+jupyterlab
+pandas
+matplotlib
+spotipy
+python-dotenv
+ipywidgets
